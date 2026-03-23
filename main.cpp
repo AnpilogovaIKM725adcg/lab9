@@ -13,7 +13,7 @@ int main()
     {
         for (int j = 0; j < COLS; j++)
         {
-            array[i][j] = rand() % 11 - 5;
+            array[i][j] = rand() % 21 - 10;
         }
     }
 
